@@ -28,12 +28,12 @@ I used Postman to test my api endpoints are working fine.
 
 ## Website(Render)
 
-[Hall-Booking-API](https://hall-booking-un91.onrender.com)
+[Hall-Booking-API](https://hallbookingapi-npxb.onrender.com)
 
 
 ## API Documentation
 
-[Click here to view API Documentation](https://documenter.getpostman.com/view/24200691/2sA2xh2YJx)
+[Click here to view API Documentation](https://documenter.getpostman.com/view/34637553/2sA3kXDfFJ)
 
 ## Screenshots
 
@@ -64,11 +64,11 @@ Followig are the requirements to run this project:
 ## npm run dev
 
 Runs the app in the development mode.\
-Open [http://localhost:3333](http://localhost:3333) to view it in your browser.
+Open [http://localhost:4000](http://localhost:4000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Feedback
 
-If you have any feedback, please reach out to me at prakashvs.official@gmail.com
+If you have any feedback, please reach out to me at subjansan@gmail.com
