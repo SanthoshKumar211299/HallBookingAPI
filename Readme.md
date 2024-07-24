@@ -38,21 +38,23 @@ I used Postman to test my api endpoints are working fine.
 ## Screenshots
 
 All Rooms
-
+![alt text](image-4.png)
 
 create Rooms
+![alt text](image-5.png)
 
 
 room Booking
-
+![alt text](image-6.png)
 
 all Booked Room Details
-
+![alt text](image-7.png)
 
 all Booked Customer Details
-
+![alt text](image-8.png)
 
 customer Book Details
+![alt text](image-9.png)
 
 
 ## Setup
